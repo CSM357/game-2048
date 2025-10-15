@@ -9,12 +9,18 @@
 
 ---
 
-A functional 2048 game built with **React** and **Vite**.  
-It features smooth animations, responsive design for both desktop and mobile, and a clean UI optimized for performance.
+## 🖼️ Preview
 
-You can explore and play it live through the link above.
+![Game Preview](https://via.placeholder.com/800x450.png?text=2048+Game+Preview)
 
-To run it locally, clone the repository, install dependencies, and start the development server using the commands below:
+*(Replace this image with your actual gameplay screenshot or GIF once ready!)*
+
+---
+
+A functional **2048 game** built with **React** and **Vite**.  
+It features smooth animations, responsive design for both desktop and mobile, and a clean UI optimized for performance.  
+
+You can play it live using the link above or run it locally with the following commands:
 
 ```bash
 git clone https://github.com/CSM357/game-2048.git
