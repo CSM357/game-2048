@@ -14,7 +14,7 @@ It features smooth animations, responsive design for both desktop and mobile, an
 
 You can explore and play it live through the link above.
 
-To run it locally, clone the repository, install dependencies, and start the dev server using the commands below.
+To run it locally, clone the repository, install dependencies, and start the development server using the commands below:
 
 ```bash
 git clone https://github.com/CSM357/game-2048.git
